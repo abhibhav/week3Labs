@@ -1,0 +1,23 @@
+{
+  "name": "@me/week3labs",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhibhav/week3Labs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhibhav/week3Labs/issues"
+  },
+  "homepage": "https://github.com/abhibhav/week3Labs#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
